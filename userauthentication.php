@@ -44,7 +44,7 @@ echo "<script>loginsuccessfully()</script>";
 
 } else {
 
-echo "<center>Nome ou senha inv·lida.</center>";
+echo "<center>Nome ou senha inv√°lida.</center>";
 
 echo "<script>loginfailed()</script>";
 
